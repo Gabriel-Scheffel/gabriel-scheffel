@@ -1,4 +1,4 @@
-### Olá, sou o Gabriel scheffel 👋
+### Olá, sou o Gabriel Scheffel 👋
 
 
 - 🔭 Hoje curso Astrofísica.
