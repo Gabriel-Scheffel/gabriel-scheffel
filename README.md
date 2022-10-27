@@ -1,8 +1,8 @@
 ### Olá, sou o Gabriel Scheffel 👋
 
 
-- 🔭 Hoje curso Astrofísica.
-- 🌱 Estudando computação quântica.
+- 🔭 Hoje curso Astrofísica na UFRGS.
+- 🌱 Atualmente comecei um bolsa em AGNs.
 - 📫 How to reach me: gabriel.s.costa01@gmail.com
 
 
